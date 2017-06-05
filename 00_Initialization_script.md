@@ -22,7 +22,6 @@ https://github.com/silicon-valley-data-science/data-platform-tutorial
 * spotify/kafka
 * cassandra:3.0.13
 * hopsoft/graphite-statsd
-* jupyter/pyspark-notebook
 
 ## Project Structure
 
